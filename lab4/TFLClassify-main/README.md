@@ -102,9 +102,9 @@ for (i in 0..MAX_RESULT_DISPLAY-1){
 
 6.6、以物理设备重新运行start模块
 
-![7.png](./images/7.png)
+![7.jpg](./images/7.jpg)
 
-![8.png](./images/8.png)
+![8.jpg](./images/8.jpg)
 
 
 
